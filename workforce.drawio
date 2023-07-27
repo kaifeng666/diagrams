@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T08:06:13.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tmpQrW3KdrnnA1bJD4Gc" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T09:18:58.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RzubSxBwcxXXlR4Am1wY" version="21.6.2" type="github">
   <diagram name="第 1 页" id="hVoeIvNnyioeTQqOACSP">
     <mxGraphModel dx="5633" dy="1414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77AAvNlYdpenRrMpa-0J-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="17720" y="10960" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="17720" y="10780" width="230" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="WYSjfm_L7qyrTI-c3-Px-1" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" source="WYSjfm_L7qyrTI-c3-Px-24" target="WYSjfm_L7qyrTI-c3-Px-7" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="340" y="720" as="sourcePoint" />
@@ -6932,17 +6938,47 @@
             <mxPoint x="19390" y="10460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="77AAvNlYdpenRrMpa-0J-3" value="ot_configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="17885" y="10650" width="120" height="60" as="geometry" />
+        <mxCell id="77AAvNlYdpenRrMpa-0J-3" value="Mechine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="10800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77AAvNlYdpenRrMpa-0J-4" value="OT Config" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="17780" y="10665" width="80" height="30" as="geometry" />
+        <mxCell id="77AAvNlYdpenRrMpa-0J-4" value="ZKT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17725" y="10860" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77AAvNlYdpenRrMpa-0J-5" value="OT Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="17770" y="10810" width="100" height="30" as="geometry" />
+        <mxCell id="77AAvNlYdpenRrMpa-0J-5" value="Attendance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17720" y="11060" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="77AAvNlYdpenRrMpa-0J-6" value="ot_configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="17885" y="10780" width="120" height="60" as="geometry" />
+        <mxCell id="77AAvNlYdpenRrMpa-0J-6" value="clock_transaction_tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="10975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-7" value="attendance_clock_record_tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="11045" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-12" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17790" y="10338" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-13" value="申请人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17790" y="10258" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-14" value="HR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17800" y="10168" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-15" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="10875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-16" value="attendance_clock_record_statistic_tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="11120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="17720" y="10600" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-20" value="Mechine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="10620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-21" value="Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="17725" y="10680" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77AAvNlYdpenRrMpa-0J-22" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17815" y="10695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
